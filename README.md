@@ -3,7 +3,7 @@ This is a very small utility that I use to query CBDB in my Python scripts. Feel
 
 ## Use
 ### "Installation"
-Download db.py and put it in the folder with the rest of your code. You will also need to download the [Standalone CBDB SQLite database, which you can find on the CBDB website.](https://projects.iq.harvard.edu/cbdb/download-cbdb-standalone-database) Uzip the database and you are ready to go.
+Download db.py and put it in the folder with the rest of your code (or you can simply copy the class into your code, it is quite short). You will also need to download the [Standalone CBDB SQLite database, which you can find on the CBDB website.](https://projects.iq.harvard.edu/cbdb/download-cbdb-standalone-database) Unzip the database and you are ready to go.
 
 ### demo
 ```python
